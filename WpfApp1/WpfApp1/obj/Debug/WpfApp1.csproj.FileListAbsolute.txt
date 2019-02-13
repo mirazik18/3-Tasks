@@ -1,0 +1,30 @@
+C:\Users\Donald Tramp\Desktop\WPF_1_DZ\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Donald Tramp\Desktop\WPF_1_DZ\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Donald Tramp\Desktop\WPF_1_DZ\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Donald Tramp\Desktop\WPF_1_DZ\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\Donald Tramp\Desktop\WPF_1_DZ\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Donald Tramp\Desktop\WPF_1_DZ\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Donald Tramp\Desktop\WPF_1_DZ\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Donald Tramp\Desktop\WPF_1_DZ\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Donald Tramp\Desktop\WPF_1_DZ\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Donald Tramp\Desktop\WPF_1_DZ\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Donald Tramp\Desktop\WPF_1_DZ\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Donald Tramp\Desktop\WPF_1_DZ\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Donald Tramp\Desktop\WPF_1_DZ\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Donald Tramp\Desktop\WPF_1_DZ\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Donald Tramp\Desktop\WPF_1_DZ\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\АбдишевМ\Desktop\WPF_1_DZ-master\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\АбдишевМ\Desktop\WPF_1_DZ-master\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\АбдишевМ\Desktop\WPF_1_DZ-master\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\АбдишевМ\Desktop\WPF_1_DZ-master\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\АбдишевМ\Desktop\WPF_1_DZ-master\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\АбдишевМ\Desktop\WPF_1_DZ-master\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\АбдишевМ\Desktop\WPF_1_DZ-master\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\АбдишевМ\Desktop\WPF_1_DZ-master\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\АбдишевМ\Desktop\WPF_1_DZ-master\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\АбдишевМ\Desktop\WPF_1_DZ-master\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\АбдишевМ\Desktop\WPF_1_DZ-master\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\АбдишевМ\Desktop\WPF_1_DZ-master\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\АбдишевМ\Desktop\WPF_1_DZ-master\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\АбдишевМ\Desktop\WPF_1_DZ-master\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\АбдишевМ\Desktop\WPF_1_DZ-master\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
